@@ -4,4 +4,6 @@ My research at the Donders Sleep & Memory Lab focuses on collecting and analyzin
 
 I am seeking a postdoctoral research position in Germany starting next year.
 
+<!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloy333&show_icons=true)
+-->
