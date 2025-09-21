@@ -1,9 +1,7 @@
-I am a final-year PhD candidate at Radboud University and a Scientific Assistant at Hochschule Rhein-Waal, supervised by Martin Dresler and Matthias Krauledat. 
+I am a final-year PhD candidate at Radboud University Medical Center (Nijmegen, the Netherlands) and a Scientific Assistant at Hochschule Rhein-Waal (Kleve, Germany), supervised by Prof. Martin Dresler and Prof. Matthias Krauledat.
 
-My research at the Donders Sleep & Memory Lab focuses on collecting and analyzing large sleep datasets using statistical and ML methods. I also analyze actigraphy and sleep EEG data to conduct longitudinal analyses, especially between sleep and physical activity. 
+I have a background in data science and machine learning. My PhD research at the [Donders Sleep & Memory Lab](https://dreslerlab.org/) focuses on collecting and processing wearable sleep datasets and analyzing them using various statistical and machine learning methods. I also analyze actigraphy and sleep EEG data to conduct longitudinal analyses, especially between sleep and physical activity. [<i>eegFloss</i>](https://github.com/Niloy333/eegFloss) and [<i>Wearanize+</i>](https://github.com/Niloy333/Wearanize_plus) are among my key outputs.
 
-I am seeking a postdoctoral research position or an industry role focused on data science and machine learning in Germany, starting next year.
+My broader research interests include machine learning, biomedical data analysis, computer-aided diagnosis (CAD), wearables, and citizen science. 
 
-<!-- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niloy333&show_icons=true)
--->
+I am looking for a postdoctoral research position or an industry role focused on data science and machine learning in Germany, starting next year. You can find my updated [CV here](https://docs.google.com/document/d/1Wd5C5lcWgUTLo-skAZ3-3V2NrPoodvEHctIzMz5qCsM/edit?tab=t.0). If you have a matching or interesting research project or idea in mind where my skills can be useful, please feel free to reach out. 
