@@ -4,4 +4,4 @@ I have a background in data science and machine learning. My PhD research at the
 
 My broader research interests include machine learning, biomedical data analysis, computer-aided diagnosis (CAD), wearables, and citizen science. 
 
-I am looking for a postdoctoral research position or an industry role focused on data science and machine learning in Germany, starting next year. You can find my updated [CV here](https://docs.google.com/document/d/1Wd5C5lcWgUTLo-skAZ3-3V2NrPoodvEHctIzMz5qCsM/edit?tab=t.0). If you have a matching or interesting research project or idea in mind where my skills can be useful, please feel free to reach out. 
+I am looking for a postdoctoral research position or an industry role focused on data science and machine learning in Germany, starting next year. You can find my updated [CV here](https://docs.google.com/document/d/1Wd5C5lcWgUTLo-skAZ3-3V2NrPoodvEHctIzMz5qCsM/edit?tab=t.0). If you have an interesting research project or idea in mind where my skills can be useful, please feel free to reach out. 
